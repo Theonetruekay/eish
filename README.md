@@ -1,3 +1,5 @@
+Loadshedding in South Africa is a major problem that affects all areas of life. I have created this app to track the loadshedding schedule and it will help people be able to plan their lives accordingly.
+
 This API provides essential endpoints for retrieving real-time information about loadshedding affecting your specific area.
 1. Check Loadshedding Status
 
